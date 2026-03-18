@@ -1,0 +1,38 @@
+{
+  "idExterno": "ONB-20260316-000124",
+  "canal": "WEB",
+  "dataSolicitacao": "2026-03-16T10:35:12-03:00",
+  "tipo": "JURIDICA",
+  "pj": {
+    "razaoSocial": "Empresa Exemplo Tecnologia Ltda",
+    "nomeFantasia": "Empresa Exemplo",
+    "cnpj": "11.222.333/0001-81",
+    "email": "contato@empresaexemplo.com.br",
+    "telefone": "+551133333333",
+    "endereco": {
+      "logradouro": "Avenida Paulista",
+      "numero": "2000",
+      "complemento": "12º andar",
+      "bairro": "Bela Vista",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "cep": "01310-200",
+      "pais": "BR"
+    },
+    "responsavel": {
+      "nomeCompleto": "Ciclano da Silva",
+      "cpf": "123.456.789-01",
+      "cargo": "Sócio-Administrador",
+      "email": "ciclano.silva@empresaexemplo.com.br",
+      "telefone": "+5511998887777"
+    }
+  },
+  "dadosConta": {
+    "codigoBanco": "001",
+    "nomeBanco": "Banco do Brasil",
+    "agencia": "1234",
+    "digitoAgencia": "0",
+    "numeroConta": "11111",
+    "digitoConta": "1"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "idExterno": "ONB-20260316-000123",
+  "canal": "MOBILE_APP",
+  "dataSolicitacao": "2026-03-16T10:32:45-03:00",
+  "tipo": "CORRENTE",
+  "pf": {
+    "nomeCompleto": "Fulano de Tal",
+    "cpf": "123.456.789-01",
+    "email": "fulano.tal@provedor.com.br",
+    "telefone": "+5511999999999",
+    "endereco": {
+      "logradouro": "Rua XV de Novembro",
+      "numero": "100",
+      "complemento": "Apto 1204",
+      "bairro": "Centro",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "cep": "01001-000",
+      "pais": "BR"
+    }
+  },
+  "dadosConta": {
+    "codigoBanco": "001",
+    "nomeBanco": "Banco do Brasil",
+    "agencia": "1234",
+    "digitoAgencia": "0",
+    "numeroConta": "98765",
+    "digitoConta": "0"
+  }
+}
