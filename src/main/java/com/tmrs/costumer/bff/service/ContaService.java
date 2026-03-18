@@ -4,7 +4,7 @@ import com.tmrs.costumer.bff.dto.ContaCorrenteRequest;
 import com.tmrs.costumer.bff.dto.ContaJuridicaRequest;
 import com.tmrs.costumer.bff.dto.ContaResponse;
 
-public int ContaService {
+public interface ContaService {
     ContaResponse criarContaCorrente(ContaCorrenteRequest request);
     ContaResponse criarContaJuridica(ContaJuridicaRequest request);
 }
