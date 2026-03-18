@@ -1,4 +1,8 @@
 package com.tmrs.costumer.bff.dto;
 
-public class ContaCorrenteRequest {
-}
+public record ContaCorrenteRequest (
+        String numero,
+        String titular,
+        double saldoInicial,
+        double limiteChequeEspecial
+){}

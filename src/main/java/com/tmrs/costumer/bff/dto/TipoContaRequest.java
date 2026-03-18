@@ -1,4 +1,8 @@
 package com.tmrs.costumer.bff.dto;
 
-public class TipoContaRequest {
+import com.tmrs.costumer.bff.domain.TipoConta;
+
+public record TipoContaRequest (
+        TipoConta tipo
+) {
 }
